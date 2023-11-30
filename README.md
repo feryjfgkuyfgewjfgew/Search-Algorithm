@@ -96,6 +96,15 @@ else:
 ```
 ## Sample Input and Output
 
+![Screenshot 2023-11-30 191002](https://github.com/feryjfgkuyfgewjfgew/Search-Algorithm/assets/150319377/0d52f8eb-4661-4dd0-8703-0e553aa5172f)
+
+![Screenshot 2023-11-30 191029](https://github.com/feryjfgkuyfgewjfgew/Search-Algorithm/assets/150319377/e08872cc-744b-44ae-8a30-91221aea82d7)
+
+![Screenshot 2023-11-30 191057](https://github.com/feryjfgkuyfgewjfgew/Search-Algorithm/assets/150319377/3e2f4427-0f86-46ff-bed3-3264f0dec3a2)
+
+
+
+
 
 
 
